@@ -14,9 +14,10 @@ let package = Package(
     targets: [
         .target(
             name: "MMWormhole",
-            // dependencies: []
-            sources: ["Source"],
-            publicHeadersPath: "Source"
+            // dependencies: [],
+            path: "Source"
+            // sources: ["Source"],
+            // publicHeadersPath: "Source"
       ),
     ]
 )
