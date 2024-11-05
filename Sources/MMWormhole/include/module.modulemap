@@ -1,0 +1,4 @@
+module MMWormhole {
+    umbrella "."
+    export *
+}
