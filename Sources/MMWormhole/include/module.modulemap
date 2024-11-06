@@ -1,1 +1,6 @@
-../../../MMWormhole/MMWormhole/module.modulemap
+framework module MMWormhole {
+  umbrella header "MMWormholeUmbrella.h"
+
+  export *
+  module * { export * }
+}
