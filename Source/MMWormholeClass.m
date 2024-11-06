@@ -21,7 +21,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-#import "MMWormhole.h"
+#import "MMWormholeClass.h"
 
 #if !__has_feature(objc_arc)
 #error This class requires automatic reference counting
